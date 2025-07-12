@@ -1,4 +1,18 @@
-## Scope
+# CS50’s Introduction to Databases with SQL
+Completed Harvard’s CS50 SQL course, focused entirely on relational databases and the SQL language. Gained hands-on experience with creating, reading, updating, and deleting data using SQLite, PostgreSQL, and MySQL. Learned to model real-world entities, normalize data, define constraints and triggers, and use primary/foreign keys to join tables. Also explored views, indexes, and integrating SQL with Python and Java. Coursework inspired by real-world datasets.
+
+## Course content:
+* Week 0: Querying
+* Week 1: Relating
+* Week 2: Designing
+* Week 3: Writing
+* Week 4: Viewing
+* Week 5: Optimizing
+* Week 6: Scaling
+
+Then it include a project: The culmination of the course involved developing a custom database project from scratch. Applied SQL skills to design and implement a solution to a meaningful problem of personal interest. Focused on building something impactful, functional, and share-worthy—demonstrating real-world application of database design, normalization, and query optimization. 
+
+## Scope of the final project
 
 In this section you should answer the following questions:
 
