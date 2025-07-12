@@ -28,7 +28,7 @@ Note that in this iteration, the system will not support tacking modification of
 ## Representation
 
 Entities are captured in SQLite tables with the following schema.
-![The schema](/project/diagram.png)
+![The schema](/Project/diagram.png)
 
 ### Entities
 
